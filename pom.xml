@@ -7,6 +7,11 @@
     <groupId>org.example</groupId>
     <artifactId>TobetoJavaWorkshop.2023.10.23</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>Video2</module>
+        <module>Video1</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
