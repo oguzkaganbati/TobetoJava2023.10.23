@@ -11,6 +11,8 @@
     <modules>
         <module>Video2</module>
         <module>Video1</module>
+        <module>Video3</module>
+        <module>Video3_OOP_Class_Interface</module>
     </modules>
 
     <properties>

@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>Video2_OOP</artifactId>
+    <artifactId>Video3_OOP_Class_Interface_</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
