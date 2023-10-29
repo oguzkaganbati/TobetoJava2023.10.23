@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.example</groupId>
-        <artifactId>TobetoJavaWorkshop.2023.10.23</artifactId>
+        <artifactId>Workshops</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>Video1_Intro</artifactId>
+    <artifactId>Video1_23_10_2023</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

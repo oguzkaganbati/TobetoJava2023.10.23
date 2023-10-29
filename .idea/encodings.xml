@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Video1/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Video1/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarsWebApplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarsWebApplication/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task1/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task1/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Task3/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Video1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Video1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Video2/src/main/java" charset="UTF-8" />
@@ -11,8 +19,6 @@
     <file url="file://$PROJECT_DIR$/Video3/Sample/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Video3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Video3/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Video3_OOP_Class_Interface/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Video3_OOP_Class_Interface/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
