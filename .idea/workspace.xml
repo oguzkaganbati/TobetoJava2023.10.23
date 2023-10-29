@@ -5,9 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd3d8d92-8395-4540-a112-2597c4d3ec93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/business/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/business/VehicleManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/core/logging/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/core/logging/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/core/logging/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/core/logging/MailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/dataAccess/Customer/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/dataAccess/Customer/HibernateCustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/dataAccess/Customer/JdbcCustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/dataAccess/Vehicle/HibernateVehicleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/dataAccess/Vehicle/JdbcVehicleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/dataAccess/Vehicle/VehicleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/entities/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_CarWebApplication_October27/src/main/java/entities/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +52,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/oguzkaganbati/Java Projects/TobetoJava.2023.10.23&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/oguzkaganbati/Java Projects/TobetoJava.2023.10.23/CarsWebApplication/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/Users/oguzkaganbati/Java Projects/TobetoJava.2023.10.23",
+    "onboarding.tips.debug.path": "/Users/oguzkaganbati/Java Projects/TobetoJavaReactFullStack/Task4_CarWebApplication_October27/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Video1_23.10.2023" />
