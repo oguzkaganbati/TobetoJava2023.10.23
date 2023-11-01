@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Task4_CarWebApplication_October27</module>
+        <module>Task5_Workshop1_October30</module>
     </modules>
 
     <properties>
