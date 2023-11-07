@@ -8,11 +8,11 @@ public class PerfectNumbers {
 
     public static void main(String[] s1){
 
-        double num = 0;
-        double sum = 0;
+        long num = 0;
+        long sum = 0;
 
-        for (num = 1; num < 8129; num++) {
-            for (double j = 1; j < num; j++) {
+        for (num = 1; num < 999999999; num++) {
+            for (long j = 1; j < num; j++) {
                 if (num % j == 0) {
                     sum = sum + j;
                 }
